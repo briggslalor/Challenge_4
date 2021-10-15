@@ -9,8 +9,11 @@ This project represents a statistical analysis of different retirement funds off
 This project was written and developed using Python 3.8 and is menat to be run using an IDLE, specifically Jupyter Lab. In order to properly run this project, the following libraries are required: 
 
    [csv](https://docs.python.org/3/library/csv.html)
+   
    [pathlib](https://docs.python.org/3/library/pathlib.html)
+   
    [pandas](https://pandas.pydata.org/docs/)
+   
    [numpy](https://numpy.org/doc/)
    
 ---
@@ -39,6 +42,7 @@ This project can be used simply by running the program from start to finish with
 ### Briggs Lalor
 
 email: briggsclalor@gmail.com
+
 [LinkedIn Profile](www.linkedin.com/in/briggsclalor)
 
 ---
