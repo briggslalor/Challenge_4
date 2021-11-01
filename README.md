@@ -22,12 +22,12 @@ This project was written and developed using Python 3.8 and is menat to be run u
 
 To install the required libraries, use the following code snippet at the top of the program: 
 
-    '''python 
+```python 
     import csv 
     from pathlib import Path
     import pandas as pd
     import numpy as np
-    '''
+```
     
 ---
 
